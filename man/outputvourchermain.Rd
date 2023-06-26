@@ -22,5 +22,5 @@ outputvourchermain(FToken, FYear, FMonth, FOpthon)
 Title 获取当前会计期间数据，生成凭证
 }
 \examples{
-outputvourchermain("057A7F0E-F187-4975-8873-AF71666429AB", "2023", "4", '账套查询DMS测试')
+reoutputvourchermain("057A7F0E-F187-4975-8873-AF71666429AB", "2023", "4", '账套查询DMS测试')
 }
